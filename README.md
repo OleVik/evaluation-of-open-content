@@ -76,7 +76,7 @@ Some content will also require more technical equipment to use, which raises the
 
 ### Development
 
-Necessary time and expertise necessary to produce the content. Both time and technical competency are relative to other content types, not absolute values.
+Necessary time and expertise to produce the content. Both time and technical competency are relative to other content types, not absolute values.
 
 #### Time
 
