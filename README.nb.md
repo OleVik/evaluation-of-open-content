@@ -76,7 +76,7 @@ Noe innhold vil også kreve mer teknisk utstyr for bruk, som hever terskelen. St
 
 ### Utvikling
 
-Nødvendig tid og kompetanse nødvendig for å produsere innholdet. Både tid og teknisk kompetanse er her relativt til andre innholdstyper, ikke absolutte verdier.
+Nødvendig tid og kompetanse for å produsere innholdet. Både tid og teknisk kompetanse er her relativt til andre innholdstyper, ikke absolutte verdier.
 
 #### Tid
 
