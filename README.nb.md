@@ -4,6 +4,8 @@ Et enkelt rammeverk for å sammenligne eksplisitt og implisitt kostnad ved utvik
 
 Hvert læringsobjekt gis en poengsum basert på en evaluering, det vil si, en vurdering gitt til hver underlagte faktor nedenfor. Verdiene fra disse Likert-skalaene normaliseres, aggregeres for hver faktor, og brukes i et radarkart for å indikere total og relativ kompleksitet mellom typene.
 
+![Evaluering av utviklingen av åpent innhold](model.png)
+
 ## Bruk
 
 Installer og kjør [http-server](https://www.npmjs.com/package/http-server) fra den nedlastede mappen, eller hvilken som helst annen server-programvare, og rediger `model.js` etter behov. Språk settes i nettleser-parameteret `lang`, `labels` inkluderer data for oversettelse/merkelapper, `data` all data om hvert læringsobjekt.

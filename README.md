@@ -4,6 +4,8 @@ A simple framework for comparing the explicit and implicit cost of developing, a
 
 Each type of learning object is given a score based on an evaluation, that is, a rating given to each sub-factor below. The values from these Likert-scales are normalized, aggregated for each factor, and used in a radar-map to indicate the overall and relative complexity between the types.
 
+![Evaluation of development of open content](model.png)
+
 ## Usage
 
 Install and run [http-server](https://www.npmjs.com/package/http-server) from the cloned directory, or any other simple server-software, and edit `model.js` as needed. Language is set in the query-parameter `lang` with an ISO 639-1 language-code, `labels` holds all label-data, `data` all types-data.
